@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Private/Jens/Programing/Java/Eclipse/Resources/Server/plugins/MySQLHelp.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SQL-Help/export.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/SQL-Help/.project"/>
+        <file path="/SQL-Help/.classpath"/>
+        <file path="/SQL-Help/plugin.yml"/>
+        <javaElement handleIdentifier="=SQL-Help/src"/>
+        <file path="/SQL-Help/config.yml"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,14 @@
+name: MySQLHelp
+main: me.northcode.SQLHelp.SQLHelp
+version: 1.0.1
+author: Northcode
+website: http://www.northcode.no/
+depend: [SQLibrary]
+description: >
+             A help plugin that can pull it's data from a database.
+commands:
+  help:
+    description: Displays specified help page
+    usage: /help <page> <subPage> ...
+  getSQL:
+    description: Displays SQL connection data
